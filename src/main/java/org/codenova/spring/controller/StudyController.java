@@ -31,7 +31,7 @@ public class StudyController {
 
       /*
        Model , ModelMap : 뷰로 데이터를 전달하고자 할 때
-        - For access to the model that is used in HTML controllers and exposed to templates as part of view rendering.
+        - For access to the model that is used in HTML 0...................controllers and exposed to templates as part of view rendering.
         - Spring에서는 Model 또는 ModelMap 객체를 사용하여 데이터를 템플릿으로 전달할수 있다.
      */
 
